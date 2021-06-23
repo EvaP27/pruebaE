@@ -1,0 +1,53 @@
+[
+  {
+    "Identificativo": "DAA0001",
+    "rondas":[
+      {
+        "Ronda 1": 20
+      },
+      {
+        "Ronda 2": 50
+      },
+      {
+        "Ronda 3": 60
+      },
+      {
+        "Ronda 4": 10
+      }
+    ]
+  },
+  {
+    "Identificativo": "DAA0002",
+    "rondas":[
+      {
+        "Ronda 1": 35
+      },
+      {
+        "Ronda 2": 50
+      },
+      {
+        "Ronda 3": 60
+      },
+      {
+        "Ronda 4": 70
+      }
+    ]
+  },
+  {
+    "Identificativo": "DAA0003",
+    "rondas":[
+      {
+        "Ronda 1": 90
+      },
+      {
+        "Ronda 2": 80
+      },
+      {
+        "Ronda 3": 70
+      },
+      {
+        "Ronda 4": 100
+      }
+    ]
+  }
+]
